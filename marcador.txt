@@ -1,0 +1,11 @@
+Aprendizado
+
+margin auto é que centraliza o elemento desde que temos o tamanho definido
+
+fonte sem serifa: sens-serif
+
+thead cabeçalho da tabela (table)
+
+tr linha da tabela
+
+th table header (tabela de cabeçalho)
